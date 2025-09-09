@@ -37,4 +37,3 @@ A simple cheatsheet with 24 essential Git commands for daily use.
 
 ---
 
-💡 تقدر تعمل **Star ⭐** للريبو وترجعله وقت ما تحتاج الأوامر بسرعة.  
